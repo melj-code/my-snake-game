@@ -1,4 +1,6 @@
-# snake by meljcode <a href="https://replit.com/@meljcode/my-snake-game#README.md">🐍</a> 
+# snake by meljcode <a href="https://replit.com/@meljcode/my-snake-game?v=1">🐍</a> 
+
+https://replit.com/@meljcode/my-snake-game?v=1
 
 ## Background
 <div>
@@ -14,8 +16,6 @@ This project took me on a trip down memory lane to pure 90s nostalgia.
 </div>
 
 ## How to Play (with my code):
-
-### Click on the Snake to play <a href="https://replit.com/@meljcode/my-snake-game#README.md">🐍</a> 
 
 1. Click "run" at the top of the screen.
 2. Click on the game to activate.
