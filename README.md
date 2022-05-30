@@ -2,7 +2,7 @@
 
 <div>
   <a>
-  <img src="[https://media1.giphy.com/media/9PhdJO4CMfyfXDCnko/giphy.gif](https://www.zocalopublicsquare.org/wp-content/uploads/2022/02/nostalgia-L.jpg)" alt="drawing" width="90" height=50>
+  <img src="https://media1.giphy.com/media/9PhdJO4CMfyfXDCnko/giphy.gif](https://www.zocalopublicsquare.org/wp-content/uploads/2022/02/nostalgia-L.jpg" alt="drawing" width="90" height=50>
   </a>
 </div>
 
