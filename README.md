@@ -34,7 +34,7 @@ This project took me on a trip down memory lane to pure 90s nostalgia.
 <div>
 ➡️ - Right
   </div>
-** If the snake is already moving in a direction, selecting it will do nothing! **
+**If the snake is already moving in a direction, selecting it will do nothing! **
 
 
 
