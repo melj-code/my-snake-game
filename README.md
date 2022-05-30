@@ -42,8 +42,3 @@ This project took me on a trip down memory lane to pure 90s nostalgia.
 
 Just like in the original, the rules are simple - Eat to grow, and don't touch the walls **or your own tail**!
 
-
-
-
-
-The aim of the game? Beat your last score.
