@@ -18,10 +18,8 @@ Completing this took me on a trip down memory lane to pure 90s nostalgia...
 I build this game using turtle which is a pre-installed Python library that enables users to create pictures and shapes by providing them with a virtual canvas. 
 
 
-### Main App
-The **main.py** file contains the code which displays the screen (where you play the game) as well as the game components, which are imported from separate python files. This file is where the game is run.
-
 ### Classes:
+The **main.py** file contains the code which displays the screen (where you play the game) as well as the game components, which are imported from separate python files. This file is where the game is run.
 
 <div>
   
@@ -40,6 +38,16 @@ The **main.py** file contains the code which displays the screen (where you play
   
   </div>
   
+### Hosting the game on Replit:
+
+<div>
+To get the code to run as a game, I created a .replit file (config file):
+
+</div>
+
+  <div>
+  <img src="https://raw.githubusercontent.com/melj-code/my-snake-game/main/replitconfig.png?token=GHSAT0AAAAAABTCALA6ZPKPWWXQLN7WDJS4YV2BMUQ">
+</div>
   
   
 ## How to Play (with my code):
