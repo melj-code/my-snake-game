@@ -1,8 +1,8 @@
 # snake by meljcode <a href="https://replit.com/@meljcode/my-snake-game?v=1">🐍</a> 
 
-## Background & Motivations
+## Background
 <div>
-If you remember the 90's, it's hard to forget this addictive classic. I have always had an interest in game development, but without the technical skills yet, it was great to build a game completely with Python and get a taste. This project also taught me visually about the importance of separating Classes for efficiency of an application running. 
+If you remember the 90's, it's hard to forget this addictive classic. 
 </div>
 
 Completing this took me on a trip down memory lane to pure 90s nostalgia...
@@ -72,8 +72,3 @@ To get the code to run as a game, I created a .replit file (config file):
 ➡️ - Right
   </div>
 **If the snake is already moving in a direction, selecting it will reset your score to 0!**
-
-
-
-
-
